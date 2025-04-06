@@ -5,6 +5,7 @@ coming soon...
 
 ![Quick color menu settings gui AutoHotkeyU64_UIA_2025-04-05_09-28-49PM_809x1012](https://github.com/user-attachments/assets/a34e08af-b4c6-43a2-b8d1-62db167e1745)
 
+![image](https://github.com/user-attachments/assets/72f323ec-9afd-4ba1-a6a7-7acec553082d)
 
 
 ***
