@@ -100,7 +100,7 @@ Alternatively you can use the Menu Layout Panel in the  Settings Window ***OR***
 
 A Dynamic menu items appears at the top of them menu so you know that clicking will change the Color Pickers Values
 
-![Color Picker Window Mode](ss/qcm-Colorpicker.png)
+![Color Picker Window Mode](ss/qcm-colorpicker.png)
 
 ***
 
