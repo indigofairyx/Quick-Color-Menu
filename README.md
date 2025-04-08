@@ -16,7 +16,7 @@ Leave it running in the background so it can be launched with a **customizable h
 
 5. ** **It has an added bonus of being able to Change (and save from) the colors in Windows Standard Color Picker Dialog Boxes with one click!** 
 
-![QCM](ss/QCM.png)
+![QCM](/ss/QCM.png)
 
 ***
 
