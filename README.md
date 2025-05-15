@@ -91,14 +91,14 @@ Alternatively you can use the Menu Layout Panel in the  Settings Window ***OR***
 
 > **Quick Color Menu has a couple more tricks**
 
-## **When a Standard Windows Color Picker Window is active  QCM will see it and change its behavior!**
+## **When a Standard Windows Color Picker Window is active QCM will see it and change its behavior!**
 
 
-1. Clicking a color on QCE will change the color window by sending the RGB Values to the window.
+1. Clicking a color on QCM will change the color window by sending the RGB Values to the window.
 
 1. QCM can also save the current color the Picker Window is displaying from the `+ Add Color` Sub-menu
 
-A Dynamic menu items appears at the top of them menu so you know that clicking will change the Color Pickers Values
+A Dynamic menu items appears ⚠️ at the top of them menu so you know that clicking will change the Color Pickers Values.
 
 ![Color Picker Window Mode](ss/qcm-colorpicker.png)
 
